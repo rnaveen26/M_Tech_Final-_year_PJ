@@ -1,0 +1,23 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.buildlog
+pubspec.lock
+
+# Pub
+.dart_tool/
+.packages
+build/
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
