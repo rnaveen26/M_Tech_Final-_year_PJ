@@ -60,9 +60,7 @@ class DashboardScreen extends StatelessWidget {
                 child: SwitchListTile(
                   title: const Text("Did you complete 5-min breathing today?"),
                   value: true,
-                  onChanged: (val) {
-                    // TODO: save status
-                  },
+                  onChanged: (val) {},
                   secondary: const Icon(Icons.self_improvement, color: Colors.indigo),
                 ),
               ),
